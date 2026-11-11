@@ -1,0 +1,18 @@
+{
+  "purpose": "exploratory boundary check, NOT validation / replication",
+  "annotation_source": "rebuilt from complete GPL5175 SOFT platform table; GEO has no official GPL5175.annot.gz",
+  "n_arrays_total": 18,
+  "n_arrays_used": 12,
+  "excluded_OHT_arrays": 6,
+  "n_glaucoma": 6,
+  "n_control": 6,
+  "residual_df": 10,
+  "n_matrix_probes": 22011,
+  "n_mapped_probes": 17634,
+  "mapping_coverage_pct": 80.11,
+  "n_genes_tested": 17324,
+  "n_six_gene_probes_in_matrix": 7,
+  "n_six_genes_significant_q05": 0,
+  "primary_results_modified": false,
+  "interpretation": "whole ONH tissue, different platform and case definition; cannot validate cultured ONH astrocyte findings; unmapped probes are missing annotation, not negative results"
+}

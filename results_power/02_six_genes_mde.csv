@@ -1,0 +1,19 @@
+platform_dataset,gene,probe,log2FC,se,df_residual,p,q_BH,ci95_low,ci95_high,mde_power80,abs_log2FC_lt_mde,interpretation
+GSE2378-GPL8300,CASP1,39320_at,1.921033,0.415583,11,0.000737361246801,0.2240521981761015,1.006341,2.835725,1.279326,False,"observed |log2FC| above MDE: non-significance reflects multiplicity/variance, not lack of power"
+GSE2378-GPL8300,CASP4,195_s_at,0.783519,0.207387,11,0.0030574281229382,0.2902257898653745,0.327062,1.239976,0.638419,False,"observed |log2FC| above MDE: non-significance reflects multiplicity/variance, not lack of power"
+GSE2378-GPL8300,FGFR1,2056_at,0.728934,0.227728,11,0.008441111121874,0.3535228725690155,0.227709,1.230159,0.701034,False,"observed |log2FC| above MDE: non-significance reflects multiplicity/variance, not lack of power"
+GSE2378-GPL8300,SMAD1,37280_at,0.844961,0.224367,11,0.0031221443141672,0.2904264746422083,0.351132,1.33879,0.69069,False,"observed |log2FC| above MDE: non-significance reflects multiplicity/variance, not lack of power"
+GSE2378-GPL8300,STAT1,33338_at,-0.821042,0.282729,11,0.0143424200211991,0.433189121453681,-1.443324,-0.19876,0.87035,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect
+GSE2378-GPL8300,TGFBR2,1815_g_at,0.602682,0.133975,11,0.0009034906763433,0.2270978359516114,0.307805,0.89756,0.412428,False,"observed |log2FC| above MDE: non-significance reflects multiplicity/variance, not lack of power"
+GSE9944-GPL571,CASP1,211367_s_at,1.075139,0.412728,18,0.0179115996216489,0.1454672638612736,0.20803,1.942248,1.222777,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect
+GSE9944-GPL571,CASP4,209310_s_at,0.668978,0.270219,18,0.0234625766785816,0.1702322963112829,0.101269,1.236687,0.80057,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect
+GSE9944-GPL571,FGFR1,207937_x_at,-0.444689,0.204304,18,0.0430668095504903,0.2376575961737242,-0.873916,-0.015462,0.605286,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect
+GSE9944-GPL571,SMAD1,210993_s_at,0.8784,0.425222,18,0.0535563571186229,0.2668474541560197,-0.014959,1.771759,1.259795,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect
+GSE9944-GPL571,STAT1,AFFX-HUMISGF3A/M97935_5_at,-1.131911,0.476674,18,0.028892009054103,0.1912142857095227,-2.133366,-0.130456,1.412229,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect
+GSE9944-GPL571,TGFBR2,208944_at,0.405278,0.32018,18,0.2217297914872034,0.5435815502734547,-0.267395,1.07795,0.948587,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect
+GSE9944-GPL8300,CASP1,574_s_at,0.46675,0.124497,13,0.0024316906292773,0.3558642859325714,0.197791,0.735709,0.377386,False,"observed |log2FC| above MDE: non-significance reflects multiplicity/variance, not lack of power"
+GSE9944-GPL8300,CASP4,195_s_at,0.740171,0.286793,13,0.0228195565299674,0.5427167395383794,0.120593,1.35975,0.869353,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect
+GSE9944-GPL8300,FGFR1,424_s_at,0.440143,0.182374,13,0.0312893313878034,0.5755409861114212,0.046148,0.834138,0.552829,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect
+GSE9944-GPL8300,SMAD1,37280_at,0.457574,0.223339,13,0.0612305060927005,0.6791411767324181,-0.024921,0.940068,0.677005,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect
+GSE9944-GPL8300,STAT1,32859_at,-0.968248,0.290748,13,0.005423423039848,0.4282897800190073,-1.596371,-0.340124,0.881343,False,"observed |log2FC| above MDE: non-significance reflects multiplicity/variance, not lack of power"
+GSE9944-GPL8300,TGFBR2,1815_g_at,0.483707,0.244626,13,0.0696043132880079,0.6910626097909324,-0.044775,1.012189,0.741532,True,observed |log2FC| below MDE: non-significance cannot exclude a smaller effect

@@ -1,0 +1,20 @@
+| Dataset|Model                              | Gene   |   log2FC (primary M2) |   BH q (primary M2) |   log2FC (M2b) |   BH q (M2b) |
+|:-------------------------------------------|:-------|----------------------:|--------------------:|---------------:|-------------:|
+| GSE2378-GPL8300|M2_donor_adjusted_FDR_LFC1 | FGFR1  |                0.7289 |              0.3535 |        0.7289  |      0.3535  |
+| GSE2378-GPL8300|M2_donor_adjusted_FDR_LFC1 | SMAD1  |                0.845  |              0.2904 |        0.845   |      0.2904  |
+| GSE2378-GPL8300|M2_donor_adjusted_FDR_LFC1 | STAT1  |               -0.821  |              0.4332 |       -0.821   |      0.4332  |
+| GSE2378-GPL8300|M2_donor_adjusted_FDR_LFC1 | TGFBR2 |                0.6027 |              0.2271 |        0.6027  |      0.2271  |
+| GSE2378-GPL8300|M2_donor_adjusted_FDR_LFC1 | CASP1  |                1.921  |              0.2241 |        1.921   |      0.2241  |
+| GSE2378-GPL8300|M2_donor_adjusted_FDR_LFC1 | CASP4  |                0.7835 |              0.2902 |        0.7835  |      0.2902  |
+| GSE9944-GPL571|M2_donor_adjusted_FDR_LFC1  | FGFR1  |               -0.4447 |              0.2377 |       -0.7978  |      0.3729  |
+| GSE9944-GPL571|M2_donor_adjusted_FDR_LFC1  | SMAD1  |                0.8784 |              0.2668 |       -0.1643  |      0.07692 |
+| GSE9944-GPL571|M2_donor_adjusted_FDR_LFC1  | STAT1  |               -1.132  |              0.1912 |       -0.9498  |      0.371   |
+| GSE9944-GPL571|M2_donor_adjusted_FDR_LFC1  | TGFBR2 |                0.4053 |              0.5436 |        0.3382  |      0.6953  |
+| GSE9944-GPL571|M2_donor_adjusted_FDR_LFC1  | CASP1  |                1.075  |              0.1455 |        1.091   |      0.2275  |
+| GSE9944-GPL571|M2_donor_adjusted_FDR_LFC1  | CASP4  |                0.669  |              0.1702 |        0.6775  |      0.2607  |
+| GSE9944-GPL8300|M2_donor_adjusted_FDR_LFC1 | FGFR1  |                0.4401 |              0.5755 |        0.3166  |      0.7392  |
+| GSE9944-GPL8300|M2_donor_adjusted_FDR_LFC1 | SMAD1  |                0.4576 |              0.6791 |        0.09993 |      0.8927  |
+| GSE9944-GPL8300|M2_donor_adjusted_FDR_LFC1 | STAT1  |               -0.9682 |              0.4283 |       -0.7851  |      0.7284  |
+| GSE9944-GPL8300|M2_donor_adjusted_FDR_LFC1 | TGFBR2 |                0.4837 |              0.6911 |       -0.3265  |      0.8085  |
+| GSE9944-GPL8300|M2_donor_adjusted_FDR_LFC1 | CASP1  |                0.4668 |              0.3559 |        0.3147  |      0.7392  |
+| GSE9944-GPL8300|M2_donor_adjusted_FDR_LFC1 | CASP4  |                0.7402 |              0.5427 |        0.1735  |      0.8407  |

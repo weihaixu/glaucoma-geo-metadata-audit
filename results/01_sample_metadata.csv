@@ -1,0 +1,97 @@
+gsm,title,source_hint,description,platform,donor_id,replicate,title_group_hint,series,group,race,age,sex,age_num,sex_bin,char_group,char_age,char_race,char_sex,char_disease_status
+GSM44908,706 G2,Primary Optic nerve head astrocytes,"Astrocytes from optic nerve head of 56-year-old woman with glaucoma, right eye",GPL8300,706,,glaucoma,GSE2378-GPL8300,glaucoma,UNKNOWN,,,,,,,,,
+GSM44909,707 G3,Primary Optic nerve head astrocytes,"Astrocytes from optic nerve head of 83-year-old man with glaucoma, left eye",GPL8300,707,,glaucoma,GSE2378-GPL8300,glaucoma,UNKNOWN,,,,,,,,,
+GSM44910,708 G4,Primary Optic nerve head astrocytes,"Astrocytes from optic nerve head of 83-year-old man with glaucoma, right eye",GPL8300,708,,glaucoma,GSE2378-GPL8300,glaucoma,UNKNOWN,,,,,,,,,
+GSM44911,705 N2,Primary Optic nerve head astrocytes,"Astrocytes from optic nerve head of 55-year-old woman, right eye",GPL8300,705,,control,GSE2378-GPL8300,control,UNKNOWN,,,,,,,,,
+GSM44912,747 N3,Primary Optic nerve head astrocytes,"Astrocytes from optic nerve head of 46-year-old man, left eye",GPL8300,747,,control,GSE2378-GPL8300,control,UNKNOWN,,,,,,,,,
+GSM44913,748 N4,Primary Optic nerve head astrocytes,"Astrocytes from optic nerve head of 65-year-old man, right eye",GPL8300,748,,control,GSE2378-GPL8300,control,UNKNOWN,,,,,,,,,
+GSM44938,7233 G42,Primary optic nerve head astrocytes,"Astrocytes from optic nerve head of 69-year-old man with glaucoma, right eye",GPL8300,7233,,glaucoma,GSE2378-GPL8300,glaucoma,UNKNOWN,,,,,,,,,
+GSM44939,7234 G43,Primary optic nerve head astrocytes,"Astrocytes from optic nerve head of 80-year-old woman with glaucoma, left eye",GPL8300,7234,,glaucoma,GSE2378-GPL8300,glaucoma,UNKNOWN,,,,,,,,,
+GSM44940,7235 G45,Primary optic nerve head astrocytes,"Astrocytes from optic nerve head of 79-year-old woman with glaucoma, left eye",GPL8300,7235,,glaucoma,GSE2378-GPL8300,glaucoma,UNKNOWN,,,,,,,,,
+GSM44941,7236 G48,Primary optic nerve head astrocytes,"Astrocytes from optic nerve head of 72-year-old woman with glaucoma, A eye",GPL8300,7236,,glaucoma,GSE2378-GPL8300,glaucoma,UNKNOWN,,,,,,,,,
+GSM44942,7237 N43,Primary optic nerve head astrocytes,"Astrocytes from optic nerve head of 68-year-old woman without glaucoma, right eye",GPL8300,7237,,control,GSE2378-GPL8300,control,UNKNOWN,,,,,,,,,
+GSM44943,7238 N49,Primary optic nerve head astrocytes,"Astrocytes from optic nerve head of 72-year-old woman without glaucoma, left eye",GPL8300,7238,,control,GSE2378-GPL8300,control,UNKNOWN,,,,,,,,,
+GSM44944,7239 N410,Primary optic nerve head astrocytes,"Astrocytes from optic nerve head of 65-year-old man without glaucoma, left eye",GPL8300,7239,,control,GSE2378-GPL8300,control,UNKNOWN,,,,,,,,,
+GSM44906,370 G1,Primary optic nerve head astrocytes,"Astrocytes from optic nerve head of 56-year-old woman with glaucoma, left eye",GPL91,370,,glaucoma,GSE2378-GPL91,glaucoma,UNKNOWN,,,,,,,,,
+GSM44907,369 N1,Primary Optic nerve head astrocytes,"Astrocytes from optic nerve head of 46-year-old woman, left eye",GPL91,369,,control,GSE2378-GPL91,control,UNKNOWN,,,,,,,,,
+GSM1109867,POAG ONH 1,Optic Nerve Head,"C/D ratio 0.7, Alphagan user",GPL5175,POAG ONH 1,,glaucoma,GSE45570,glaucoma,UNKNOWN,Glaucoma Affected,Glaucoma Affected,,,Glaucoma Affected,89 yrs old,,,
+GSM1109868,POAG ONH 2,Optic Nerve Head,"C/D ratio 0.7, Alphagan user",GPL5175,POAG ONH 2,,glaucoma,GSE45570,glaucoma,UNKNOWN,Glaucoma Affected,Glaucoma Affected,,,Glaucoma Affected,89 yrs old,,,
+GSM1109869,POAG ONH 3,Optic Nerve Head,C/D ratio 0.8; peripapillary atrophy; Xalatan and betoptic user; AMD,GPL5175,POAG ONH 3,,glaucoma,GSE45570,glaucoma,UNKNOWN,Glaucoma Affected,Glaucoma Affected,,,Glaucoma Affected,83 yrs old,,,
+GSM1109870,POAG ONH 4,Optic Nerve Head,"C/D ratio 0.85, Travoprost and brimonidine user; AMD",GPL5175,POAG ONH 4,,glaucoma,GSE45570,glaucoma,UNKNOWN,Glaucoma Affected,Glaucoma Affected,,,Glaucoma Affected,88 yrs old,,,
+GSM1109871,POAG ONH 5,Optic Nerve Head,"C/D ratio 0.8; thinning of neuroretinal rims, optic disc palor; Azopt user; AMD",GPL5175,POAG ONH 5,,glaucoma,GSE45570,glaucoma,UNKNOWN,Glaucoma Affected,Glaucoma Affected,,,Glaucoma Affected,89 yrs old,,,
+GSM1109872,POAG ONH 6,Optic Nerve Head,C/D ratio 0.5; Betagan user; AMD,GPL5175,POAG ONH 6,,glaucoma,GSE45570,glaucoma,UNKNOWN,Glaucoma Affected,Glaucoma Affected,,,Glaucoma Affected,95 yrs old,,,
+GSM1109873,OHT ONH 1,Optic Nerve Head,"C/D ratio 0.3, Max IOP 25;  no meds; AMD",GPL5175,OHT ONH 1,,OHT,GSE45570,OHT,UNKNOWN,Ocular Hypertension,Ocular Hypertension,,,Ocular Hypertension,86 yrs old,,,
+GSM1109874,OHT ONH 2,Optic Nerve Head,"C/D ratio 0.2, Max IOP 29;  no meds; AMD",GPL5175,OHT ONH 2,,OHT,GSE45570,OHT,UNKNOWN,Ocular Hypertension,Ocular Hypertension,,,Ocular Hypertension,89 yrs old,,,
+GSM1109875,OHT ONH 3,Optic Nerve Head,"C/D ratio 0.2, Max IOP 22;  no meds; AMD",GPL5175,OHT ONH 3,,OHT,GSE45570,OHT,UNKNOWN,Ocular Hypertension,Ocular Hypertension,,,Ocular Hypertension,84 yrs old,,,
+GSM1109876,OHT ONH 4,Optic Nerve Head,"C/D ratio 0.2, Max IOP 24;  no meds; AMD",GPL5175,OHT ONH 4,,OHT,GSE45570,OHT,UNKNOWN,Ocular Hypertension,Ocular Hypertension,,,Ocular Hypertension,82 yrs old,,,
+GSM1109877,OHT ONH 5,Optic Nerve Head,"C/D ratio 0.25, Max IOP 22;  no meds; AMD",GPL5175,OHT ONH 5,,OHT,GSE45570,OHT,UNKNOWN,Ocular Hypertension,Ocular Hypertension,,,Ocular Hypertension,93 yrs old,,,
+GSM1109878,OHT ONH 6,Optic Nerve Head,"C/D ratio 0.5, Max IOP 24; glaucoma suspect;  no meds",GPL5175,OHT ONH 6,,OHT,GSE45570,OHT,UNKNOWN,Ocular Hypertension,Ocular Hypertension,,,Ocular Hypertension,91 yrs old,,,
+GSM1109879,Control ONH 1,Optic Nerve Head,Pseudophakia,GPL5175,Control ONH 1,,control,GSE45570,control,UNKNOWN,Unaffected Control,Unaffected Control,,,Unaffected Control,94 yrs old,,,
+GSM1109880,Control ONH 2,Optic Nerve Head,Pseudophakia; AMD,GPL5175,Control ONH 2,,control,GSE45570,control,UNKNOWN,Unaffected Control,Unaffected Control,,,Unaffected Control,84 yrs old,,,
+GSM1109881,Control ONH 3,Optic Nerve Head,Cataract; AMD,GPL5175,Control ONH 3,,control,GSE45570,control,UNKNOWN,Unaffected Control,Unaffected Control,,,Unaffected Control,83 yrs old,,,
+GSM1109882,Control ONH 4,Optic Nerve Head,AMD,GPL5175,Control ONH 4,,control,GSE45570,control,UNKNOWN,Unaffected Control,Unaffected Control,,,Unaffected Control,88 yrs old,,,
+GSM1109883,Control ONH 5,Optic Nerve Head,Pseudophakia; AMD,GPL5175,Control ONH 5,,control,GSE45570,control,UNKNOWN,Unaffected Control,Unaffected Control,,,Unaffected Control,90 yrs old,,,
+GSM1109884,Control ONH 6,Optic Nerve Head,AMD,GPL5175,Control ONH 6,,control,GSE45570,control,UNKNOWN,Unaffected Control,Unaffected Control,,,Unaffected Control,87 yrs old,,,
+GSM251495,03-1L-rep1,"Human optic nerve head astrocytes, normal",03-1La,GPL571,03-1L,rep1,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,49,caucasian,male,normal
+GSM251496,03-1L-rep2,"Human optic nerve head astrocytes, normal",03-1Lc,GPL571,03-1L,rep2,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,49,caucasian,male,normal
+GSM251497,03-11R-rep1,"Human optic nerve head astrocytes, normal",03-11R a,GPL571,03-11R,rep1,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,68,caucasian,female,normal
+GSM251498,03-11R-rep2,"Human optic nerve head astrocytes, normal",03-11R c,GPL571,03-11R,rep2,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,68,caucasian,female,normal
+GSM251499,03-13L-rep1,"Human optic nerve head astrocytes, normal",03-13L a,GPL571,03-13L,rep1,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,72,caucasian,female,normal
+GSM251500,03-13L-rep2,"Human optic nerve head astrocytes, normal",03-13L c,GPL571,03-13L,rep2,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,72,caucasian,female,normal
+GSM251501,04-4L-rep1,"Human optic nerve head astrocytes, normal",04-4L a,GPL571,04-4L,rep1,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,42,caucasian,male,normal
+GSM251502,04-4L-rep2,"Human optic nerve head astrocytes, normal",04-4L b,GPL571,04-4L,rep2,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,42,caucasian,male,normal
+GSM251503,04-6L-rep1,"Human optic nerve head astrocytes, normal",04-6L a,GPL571,04-6L,rep1,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,57,caucasian,male,normal
+GSM251504,04-6L-rep2,"Human optic nerve head astrocytes, normal",04-6L b,GPL571,04-6L,rep2,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,57,caucasian,male,normal
+GSM251505,04-19L-rep1,"Human optic nerve head astrocytes, normal",04-19L a,GPL571,04-19L,rep1,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,50,caucasian,male,normal
+GSM251506,04-19L-rep2,"Human optic nerve head astrocytes, normal",04-19L b,GPL571,04-19L,rep2,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,50,caucasian,male,normal
+GSM251507,05-5L-rep1,"Human optic nerve head astrocytes, normal",05-5L a,GPL571,05-5L,rep1,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,56,caucasian,male,normal
+GSM251508,05-5L-rep2,"Human optic nerve head astrocytes, normal",05-5L b,GPL571,05-5L,rep2,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,56,caucasian,male,normal
+GSM251509,04-2R-rep1,"Human optic nerve head astrocytes, normal",04-2R a,GPL571,04-2R,rep1,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,65,caucasian,male,normal
+GSM251510,04-2R-rep2,"Human optic nerve head astrocytes, normal",04-2R b,GPL571,04-2R,rep2,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,65,caucasian,male,normal
+GSM251511,05-11R-rep1,"Human optic nerve head astrocytes, normal",05-11R a,GPL571,05-11R,rep1,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,68,caucasian,male,normal
+GSM251512,05-11R-rep2,"Human optic nerve head astrocytes, normal",05-11R b,GPL571,05-11R,rep2,,GSE9944-GPL571,control,Caucasian,caucasian,caucasian,,,,68,caucasian,male,normal
+GSM251513,03-6R-rep1,"Human optic nerve head astrocytes, normal",03-6R a,GPL571,03-6R,rep1,,GSE9944-GPL571,control,African_American,african,african,,,,45,african,male,normal
+GSM251514,03-6R-rep2,"Human optic nerve head astrocytes, normal",03-6R c,GPL571,03-6R,rep2,,GSE9944-GPL571,control,African_American,african,african,,,,45,african,male,normal
+GSM251515,03-19L-rep1,"Human optic nerve head astrocytes, normal",03-19L a,GPL571,03-19L,rep1,,GSE9944-GPL571,control,African_American,african,african,,,,56,african,male,normal
+GSM251516,03-19L-rep2,"Human optic nerve head astrocytes, normal",03-19L c,GPL571,03-19L,rep2,,GSE9944-GPL571,control,African_American,african,african,,,,56,african,male,normal
+GSM251517,04-15L-rep1,"Human optic nerve head astrocytes, normal",04-15L a,GPL571,04-15L,rep1,,GSE9944-GPL571,control,African_American,african,african,,,,70,african,female,normal
+GSM251518,04-15L-rep2,"Human optic nerve head astrocytes, normal",04-15L b,GPL571,04-15L,rep2,,GSE9944-GPL571,control,African_American,african,african,,,,70,african,female,normal
+GSM251519,04-21R-rep1,"Human optic nerve head astrocytes, normal",04-21R a,GPL571,04-21R,rep1,,GSE9944-GPL571,control,African_American,african,african,,,,57,african,male,normal
+GSM251520,04-21R-rep2,"Human optic nerve head astrocytes, normal",04-21R b,GPL571,04-21R,rep2,,GSE9944-GPL571,control,African_American,african,african,,,,57,african,male,normal
+GSM251521,05-4L-rep1,"Human optic nerve head astrocytes, normal",05-4L a,GPL571,05-4L,rep1,,GSE9944-GPL571,control,African_American,african,african,,,,47,african,female,normal
+GSM251522,05-4L-rep2,"Human optic nerve head astrocytes, normal",05-4L b,GPL571,05-4L,rep2,,GSE9944-GPL571,control,African_American,african,african,,,,47,african,female,normal
+GSM251523,05-7L-rep1,"Human optic nerve head astrocytes, normal",05-7L a,GPL571,05-7L,rep1,,GSE9944-GPL571,control,African_American,african,african,,,,70,african,male,normal
+GSM251524,05-7L-rep2,"Human optic nerve head astrocytes, normal",05-7L b,GPL571,05-7L,rep2,,GSE9944-GPL571,control,African_American,african,african,,,,70,african,male,normal
+GSM251525,05-8R-rep1,"Human optic nerve head astrocytes, normal",05-8R a,GPL571,05-8R,rep1,,GSE9944-GPL571,control,African_American,african,african,,,,62,african,male,normal
+GSM251526,05-8R-rep2,"Human optic nerve head astrocytes, normal",05-8R b,GPL571,05-8R,rep2,,GSE9944-GPL571,control,African_American,african,african,,,,62,african,male,normal
+GSM251527,05-13L-rep1,"Human optic nerve head astrocytes, normal",05-13L a,GPL571,05-13L,rep1,,GSE9944-GPL571,control,African_American,african,african,,,,73,african,male,normal
+GSM251528,05-13L-rep2,"Human optic nerve head astrocytes, normal",05-13L b,GPL571,05-13L,rep2,,GSE9944-GPL571,control,African_American,african,african,,,,73,african,male,normal
+GSM251529,05-14L-rep1,"Human optic nerve head astrocytes, normal",05-14L a,GPL571,05-14L,rep1,,GSE9944-GPL571,control,African_American,african,african,,,,38,african,male,normal
+GSM251530,05-14L-rep2,"Human optic nerve head astrocytes, normal",05-14L b,GPL571,05-14L,rep2,,GSE9944-GPL571,control,African_American,african,african,,,,38,african,male,normal
+GSM251922,04-20L-rep1,"Human optic nerve head astrocytes, glaucoma",04-20L a,GPL571,04-20L,rep1,,GSE9944-GPL571,glaucoma,African_American,african,african,,,,67,african,male,glaucoma
+GSM251923,04-20L-rep2,"Human optic nerve head astrocytes, glaucoma",04-20L b,GPL571,04-20L,rep2,,GSE9944-GPL571,glaucoma,African_American,african,african,,,,67,african,male,glaucoma
+GSM251924,04-24R-rep1,"Human optic nerve head astrocytes, glaucoma",04-24R a,GPL571,04-24R,rep1,,GSE9944-GPL571,glaucoma,African_American,african,african,,,,53,african,female,glaucoma
+GSM251925,04-24R-rep2,"Human optic nerve head astrocytes, glaucoma",04-24R b,GPL571,04-24R,rep2,,GSE9944-GPL571,glaucoma,African_American,african,african,,,,53,african,female,glaucoma
+GSM251926,05-16L-rep1,"Human optic nerve head astrocytes, glaucoma",05-16L a,GPL571,05-16L,rep1,,GSE9944-GPL571,glaucoma,African_American,african,african,,,,56,african,female,glaucoma
+GSM251927,05-16L-rep2,"Human optic nerve head astrocytes, glaucoma",05-16L b,GPL571,05-16L,rep2,,GSE9944-GPL571,glaucoma,African_American,african,african,,,,56,african,female,glaucoma
+GSM251599,00-6R-rep1,"Human optic nerve head astrocytes, glaucoma",Caucasian American with glaucoma,GPL8300,00-6R,rep1,,GSE9944-GPL8300,glaucoma,Caucasian,caucasian,caucasian,,,,56,caucasian,female,glaucoma
+GSM251600,00-7L-rep1,"Human optic nerve head astrocytes, glaucoma",Caucasian American with glaucoma,GPL8300,00-7L,rep1,,GSE9944-GPL8300,glaucoma,Caucasian,caucasian,caucasian,,,,83,caucasian,male,glaucoma
+GSM251601,00-7R-rep1,"Human optic nerve head astrocytes, glaucoma",Caucasian American with glaucoma,GPL8300,00-7R,rep1,,GSE9944-GPL8300,glaucoma,Caucasian,caucasian,caucasian,,,,83,caucasian,male,glaucoma
+GSM251602,02-1R-rep1,"Human optic nerve head astrocytes, glaucoma",Caucasian American with glaucoma,GPL8300,02-1R,rep1,,GSE9944-GPL8300,glaucoma,Caucasian,caucasian,caucasian,,,,69,caucasian,male,glaucoma
+GSM251603,2-10R-rep1,"Human optic nerve head astrocytes, glaucoma",Caucasian American with glaucoma,GPL8300,2-10R,rep1,,GSE9944-GPL8300,glaucoma,Caucasian,caucasian,caucasian,,,,80,caucasian,female,glaucoma
+GSM251604,04-1L-rep1,"Human optic nerve head astrocytes, glaucoma",Caucasian American with glaucoma,GPL8300,04-1L,rep1,,GSE9944-GPL8300,glaucoma,Caucasian,caucasian,caucasian,,,,79,caucasian,female,glaucoma
+GSM251605,04-5A-rep1,"Human optic nerve head astrocytes, glaucoma",Caucasian American with glaucoma,GPL8300,04-5A,rep1,,GSE9944-GPL8300,glaucoma,Caucasian,caucasian,caucasian,,,,72,caucasian,female,glaucoma
+GSM251607,99-9R-rep1,"Human optic nerve head astrocytes, normal",99-9R,GPL8300,99-9R,rep1,,GSE9944-GPL8300,control,Caucasian,caucasian,caucasian,,,,46,caucasian,female,normal
+GSM251608,LC46R-rep1,"Human optic nerve head astrocytes, normal",LC46R,GPL8300,LC46R,rep1,,GSE9944-GPL8300,control,Caucasian,caucasian,caucasian,,,,46,caucasian,male,normal
+GSM251609,99-6L-rep1,"Human optic nerve head astrocytes, normal",99-6L,GPL8300,99-6L,rep1,,GSE9944-GPL8300,control,Caucasian,caucasian,caucasian,,,,42,caucasian,male,normal
+GSM251610,03-11R-rep1,"Human optic nerve head astrocytes, normal",03-11R,GPL8300,03-11R,rep1,,GSE9944-GPL8300,control,Caucasian,caucasian,caucasian,,,,68,caucasian,female,normal
+GSM251611,03-13L-rep1,"Human optic nerve head astrocytes, normal",03-13L,GPL8300,03-13L,rep1,,GSE9944-GPL8300,control,Caucasian,caucasian,caucasian,,,,72,caucasian,female,normal
+GSM251612,04-2L-rep1,"Human optic nerve head astrocytes, normal",04-2L,GPL8300,04-2L,rep1,,GSE9944-GPL8300,control,Caucasian,caucasian,caucasian,,,,65,caucasian,male,normal
+GSM251613,04-20L-rep1,"Human optic nerve head astrocytes, glaucoma",04-20L a,GPL8300,04-20L,rep1,,GSE9944-GPL8300,glaucoma,African_American,african,african,,,,67,african,male,glaucoma
+GSM251614,04-20L-rep2,"Human optic nerve head astrocytes, glaucoma",04-20L b,GPL8300,04-20L,rep2,,GSE9944-GPL8300,glaucoma,African_American,african,african,,,,67,african,male,glaucoma
+GSM251615,04-24R-rep1,"Human optic nerve head astrocytes, glaucoma",04-24R a,GPL8300,04-24R,rep1,,GSE9944-GPL8300,glaucoma,African_American,african,african,,,,53,african,female,glaucoma
+GSM251616,04-24R-rep2,"Human optic nerve head astrocytes, glaucoma",04-24R b,GPL8300,04-24R,rep2,,GSE9944-GPL8300,glaucoma,African_American,african,african,,,,53,african,female,glaucoma
+GSM251617,05-16L-rep1,"Human optic nerve head astrocytes, glaucoma",05-16L a,GPL8300,05-16L,rep1,,GSE9944-GPL8300,glaucoma,African_American,african,african,,,,56,african,female,glaucoma
+GSM251618,05-16L-rep2,"Human optic nerve head astrocytes, glaucoma",05-16L b,GPL8300,05-16L,rep2,,GSE9944-GPL8300,glaucoma,African_American,african,african,,,,56,african,female,glaucoma
+GSM251598,00-6L-rep1,"Human optic nerve head astrocytes, glaucoma",Caucasian American with glaucoma,GPL91,00-6L,rep1,,GSE9944-GPL91,glaucoma,Caucasian,caucasian,caucasian,,,,56,caucasian,female,glaucoma
+GSM251606,99-9L-rep1,"Human optic nerve head astrocytes, normal",99-9L,GPL91,99-9L,rep1,,GSE9944-GPL91,control,Caucasian,caucasian,caucasian,,,,46,caucasian,female,normal

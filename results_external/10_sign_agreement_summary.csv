@@ -1,0 +1,10 @@
+convention,primary_platform,n_compared,n_sign_agreement,pct
+array_level,GSE2378-GPL8300,6,2,33.3
+array_level,GSE9944-GPL571,6,3,50.0
+array_level,GSE9944-GPL8300,6,2,33.3
+donor_declared,GSE2378-GPL8300,6,3,50.0
+donor_declared,GSE9944-GPL571,6,2,33.3
+donor_declared,GSE9944-GPL8300,6,3,50.0
+donor_metadata,GSE2378-GPL8300,6,3,50.0
+donor_metadata,GSE9944-GPL571,6,2,33.3
+donor_metadata,GSE9944-GPL8300,6,3,50.0

@@ -1,0 +1,7 @@
+Dataset	Arrays in matrix	Arrays used (case/control)	Donors	Glaucoma donors	Control donors	Ancestry known (donors)	Age usable (donors)	Sex usable (donors)	Scale	Probes tested	Probes with gene symbol	M2 adjustment terms	Model status	Design warning
+GSE9944-GPL571	42	42	21	3	18	21	0	0	log2	22277	21154	intercept,glaucoma,race_Caucasian	OK	only 3 glaucoma / 18 control donors - underpowered; ALL glaucoma donors share one ancestry: race and disease are nearly collinear; the adjusted disease coefficient is not interpretable
+GSE9944-GPL8300	19	19	16	10	6	16	0	0	log2	12600	12156	intercept,glaucoma,race_Caucasian	OK	none detected
+GSE9944-GPL91	2	2	2	1	1	2	0	0	log2	12600	0	nan	SKIPPED: only 2 labelled donors (>=4 required)	only 1 glaucoma / 1 control donors - underpowered; ALL glaucoma donors share one ancestry: race and disease are nearly collinear; the adjusted disease coefficient is not interpretable
+GSE2378-GPL8300	13	13	13	7	6	0	0	0	linear	12625	12181	REJECTED (race unavailable)	PARTIAL: covariate-adjusted model could not be fitted	none detected
+GSE2378-GPL91	2	2	2	1	1	0	0	0	linear	12626	0	nan	SKIPPED: only 2 labelled donors (>=4 required)	only 1 glaucoma / 1 control donors - underpowered
+GSE45570	18	12	12	6	6	0	0	0	log2	22011	0	REJECTED (race unavailable)	PARTIAL: covariate-adjusted model could not be fitted	none detected

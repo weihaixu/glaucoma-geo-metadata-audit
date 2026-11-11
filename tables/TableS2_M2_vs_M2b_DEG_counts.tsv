@@ -1,0 +1,17 @@
+Dataset	Model	DE probes (primary M2)	DE probes (M2b)	Delta
+GSE2378-GPL8300	M0_array_nominal	748	748	0
+GSE2378-GPL8300	M1_donor_nominal	748	748	0
+GSE2378-GPL8300	M2_donor_adjusted_FDR_LFC1	1	1	0
+GSE2378-GPL8300	M3_donor_adjusted_FDR_LFC05	2	2	0
+GSE45570	M0_array_nominal	89	89	0
+GSE45570	M1_donor_nominal	89	89	0
+GSE45570	M2_donor_adjusted_FDR_LFC1	0	0	0
+GSE45570	M3_donor_adjusted_FDR_LFC05	0	0	0
+GSE9944-GPL571	M0_array_nominal	1375	1375	0
+GSE9944-GPL571	M1_donor_nominal	1075	1075	0
+GSE9944-GPL571	M2_donor_adjusted_FDR_LFC1	114	95	-19
+GSE9944-GPL571	M3_donor_adjusted_FDR_LFC05	640	516	-124
+GSE9944-GPL8300	M0_array_nominal	472	472	0
+GSE9944-GPL8300	M1_donor_nominal	337	337	0
+GSE9944-GPL8300	M2_donor_adjusted_FDR_LFC1	0	0	0
+GSE9944-GPL8300	M3_donor_adjusted_FDR_LFC05	0	0	0

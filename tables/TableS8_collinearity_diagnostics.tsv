@@ -1,0 +1,7 @@
+dataset	n_donors	design	design_rank	n_columns	condition_number	vif_glaucoma	vif_race_Caucasian	r_glaucoma_Caucasian	phi_ancestry_disease	smallest_cell	zero_cell	ancestry_available	note
+GSE2378-GPL8300	13	intercept,glaucoma	2	2	2.7182	1.0					n/a	no	no ancestry field -> adjusted design rejected
+GSE2378-GPL91	2	intercept,glaucoma	2	2	2.618	1.0					n/a	no	no ancestry field -> adjusted design rejected
+GSE45570	12	intercept,glaucoma	2	2	2.618	1.0					n/a	no	no ancestry field -> adjusted design rejected
+GSE9944-GPL571	21	intercept,glaucoma,race_Caucasian	3	3	3.7581	1.1429	1.1429	-0.3536	-0.3536	0.0	YES (a zero cell)	yes	adjusted design fitted
+GSE9944-GPL8300	16	intercept,glaucoma,race_Caucasian	3	3	6.2863	1.1607	1.1607	-0.3721	-0.3721	0.0	YES (a zero cell)	yes	adjusted design fitted
+GSE9944-GPL91	2	intercept,glaucoma	2	2	2.618	1.0					n/a	no	no ancestry field -> adjusted design rejected

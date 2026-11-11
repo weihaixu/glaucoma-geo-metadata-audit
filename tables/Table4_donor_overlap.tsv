@@ -1,0 +1,5 @@
+Dataset A	Dataset B	Donors A	Donors B	Shared donor IDs	Shared donor list	Interpretation
+GSE2378-GPL8300	GSE2378-GPL91	13	2	0		SAME GEO SERIES but no shared donor IDs in titles - still one experiment, not an independent cohort
+GSE9944-GPL571	GSE9944-GPL8300	21	16	5	03-11R;03-13L;04-20L;04-24R;05-16L	SAME GEO SERIES - overlapping donors / arrays are technical replication, NOT independent validation
+GSE9944-GPL571	GSE9944-GPL91	21	2	0		SAME GEO SERIES but no shared donor IDs in titles - still one experiment, not an independent cohort
+GSE9944-GPL8300	GSE9944-GPL91	16	2	0		SAME GEO SERIES but no shared donor IDs in titles - still one experiment, not an independent cohort

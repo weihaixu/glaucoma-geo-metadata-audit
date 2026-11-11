@@ -1,0 +1,17 @@
+dataset,race,group,n
+GSE2378-GPL8300,UNKNOWN,control,6
+GSE2378-GPL8300,UNKNOWN,glaucoma,7
+GSE2378-GPL91,UNKNOWN,control,1
+GSE2378-GPL91,UNKNOWN,glaucoma,1
+GSE45570,UNKNOWN,control,6
+GSE45570,UNKNOWN,glaucoma,6
+GSE9944-GPL571,African_American,control,9
+GSE9944-GPL571,African_American,glaucoma,3
+GSE9944-GPL571,Caucasian,control,9
+GSE9944-GPL571,Caucasian,glaucoma,0
+GSE9944-GPL8300,African_American,control,0
+GSE9944-GPL8300,African_American,glaucoma,3
+GSE9944-GPL8300,Caucasian,control,6
+GSE9944-GPL8300,Caucasian,glaucoma,7
+GSE9944-GPL91,Caucasian,control,1
+GSE9944-GPL91,Caucasian,glaucoma,1

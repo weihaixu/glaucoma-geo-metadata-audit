@@ -1,0 +1,43 @@
+{
+  "generated_by": "geo_metadata_audit.py",
+  "n_matrices": 7,
+  "completeness_rule": 0.8,
+  "defect_occurrence": {
+    "free_text_covariates": {
+      "FAIL": 3,
+      "WARN": 4,
+      "PASS": 0,
+      "NOT_APPLICABLE": 0
+    },
+    "group_x_ancestry_cells": {
+      "FAIL": 2,
+      "WARN": 1,
+      "PASS": 0,
+      "NOT_APPLICABLE": 4
+    },
+    "replicate_donor_overlap": {
+      "FAIL": 0,
+      "WARN": 2,
+      "PASS": 5,
+      "NOT_APPLICABLE": 0
+    },
+    "annotation_availability": {
+      "FAIL": 0,
+      "WARN": 0,
+      "PASS": 7,
+      "NOT_APPLICABLE": 0
+    },
+    "scale_excluded_groups": {
+      "FAIL": 0,
+      "WARN": 3,
+      "PASS": 4,
+      "NOT_APPLICABLE": 0
+    }
+  },
+  "constraints": [
+    "'probe not mapped' is a missing-annotation limitation, never a negative result",
+    "same-series platforms sharing donor IDs are repeated hybridisations, not independent cohorts",
+    "a full-rank design can still contain an empty group x ancestry stratum",
+    "detectable-effect / power statements are post hoc and are not equivalence tests"
+  ]
+}

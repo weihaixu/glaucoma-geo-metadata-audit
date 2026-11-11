@@ -1,0 +1,13 @@
+check,value,detail
+n_arrays_deposited,36,GSM columns in the series matrix
+n_donors_declared_by_GEO,28,13 controls + 15 POAG in !Series_overall_design
+n_poag_arrays,17,disease state: Primary Open-Angle Glaucoma
+n_control_arrays,19,disease state: Control
+control_unique_postmortem_delays,13,19 control arrays collapse to 13 delay-defined donors (6 paired-eye donors)
+poag_unique_postmortem_delays,1,all 17 POAG arrays have delay 0 or 0:00; metadata cannot pair them
+disease_vs_collection_phi,1.0,"complete separation: POAG=surgery, control=Donated eye; table={'Donated eye': {'Control': 19, 'Primary Open-Angle Glaucoma': 0}, 'surgery': {'Control': 0, 'Primary Open-Angle Glaucoma': 17}}"
+disease_vs_delay_phi,1.0,"complete separation: POAG delay 0, control delay > 0; table={'nonzero': {'Control': 19, 'Primary Open-Angle Glaucoma': 0}, 'zero': {'Control': 0, 'Primary Open-Angle Glaucoma': 17}}"
+design_rank_with_confounders,2,"rank of [1, glaucoma, surgery, delay_nonzero] is 2 of 4: surgery and delay_nonzero are exactly collinear with glaucoma, so the confounding is not identifiable"
+covariates_available,none,"no ancestry / age / sex fields deposited; M2 reduces to [1, glaucoma]"
+annotation_coverage_pct,40.64,19219/47293 matrix probes carry a non-empty Gene symbol in GPL2507.annot.gz
+six_gene_probes,12,probes on this platform annotated to the six pre-specified transcripts

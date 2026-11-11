@@ -1,0 +1,137 @@
+{
+  "series": "GSE2378",
+  "official_sample_count": 15,
+  "retrieved": 15,
+  "platform_counts": {
+    "GPL91": 2,
+    "GPL8300": 13
+  },
+  "group_counts_from_title": {
+    "glaucoma": 8,
+    "control": 7
+  },
+  "has_race_age_sex_characteristics": false,
+  "note": "GROUP inferred from title G/N suffix; no characteristics field present in the brief view.",
+  "samples": [
+    {
+      "gsm": "GSM44906",
+      "title": "370 G1",
+      "platform": "GPL91",
+      "source": "Primary optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 56-year-old woman with glaucoma, left eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44907",
+      "title": "369 N1",
+      "platform": "GPL91",
+      "source": "Primary Optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 46-year-old woman, left eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44908",
+      "title": "706 G2",
+      "platform": "GPL8300",
+      "source": "Primary Optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 56-year-old woman with glaucoma, right eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44909",
+      "title": "707 G3",
+      "platform": "GPL8300",
+      "source": "Primary Optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 83-year-old man with glaucoma, left eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44910",
+      "title": "708 G4",
+      "platform": "GPL8300",
+      "source": "Primary Optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 83-year-old man with glaucoma, right eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44911",
+      "title": "705 N2",
+      "platform": "GPL8300",
+      "source": "Primary Optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 55-year-old woman, right eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44912",
+      "title": "747 N3",
+      "platform": "GPL8300",
+      "source": "Primary Optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 46-year-old man, left eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44913",
+      "title": "748 N4",
+      "platform": "GPL8300",
+      "source": "Primary Optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 65-year-old man, right eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44938",
+      "title": "7233 G42",
+      "platform": "GPL8300",
+      "source": "Primary optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 69-year-old man with glaucoma, right eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44939",
+      "title": "7234 G43",
+      "platform": "GPL8300",
+      "source": "Primary optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 80-year-old woman with glaucoma, left eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44940",
+      "title": "7235 G45",
+      "platform": "GPL8300",
+      "source": "Primary optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 79-year-old woman with glaucoma, left eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44941",
+      "title": "7236 G48",
+      "platform": "GPL8300",
+      "source": "Primary optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 72-year-old woman with glaucoma, A eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44942",
+      "title": "7237 N43",
+      "platform": "GPL8300",
+      "source": "Primary optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 68-year-old woman without glaucoma, right eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44943",
+      "title": "7238 N49",
+      "platform": "GPL8300",
+      "source": "Primary optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 72-year-old woman without glaucoma, left eye",
+      "characteristics": ""
+    },
+    {
+      "gsm": "GSM44944",
+      "title": "7239 N410",
+      "platform": "GPL8300",
+      "source": "Primary optic nerve head astrocytes",
+      "description": "Astrocytes from optic nerve head of 65-year-old man without glaucoma, left eye",
+      "characteristics": ""
+    }
+  ]
+}

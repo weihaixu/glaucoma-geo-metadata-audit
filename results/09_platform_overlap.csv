@@ -1,0 +1,7 @@
+dataset_A,dataset_B,n_sig_A,n_sig_B,n_shared,interpretation
+GSE2378-GPL8300,GSE45570,1,0,0,different series - check donor overlap before claiming independence
+GSE2378-GPL8300,GSE9944-GPL571,1,114,0,different series - check donor overlap before claiming independence
+GSE2378-GPL8300,GSE9944-GPL8300,1,0,0,different series - check donor overlap before claiming independence
+GSE45570,GSE9944-GPL571,0,114,0,different series - check donor overlap before claiming independence
+GSE45570,GSE9944-GPL8300,0,0,0,different series - check donor overlap before claiming independence
+GSE9944-GPL571,GSE9944-GPL8300,114,0,0,same GEO series / same donors => NOT independent validation

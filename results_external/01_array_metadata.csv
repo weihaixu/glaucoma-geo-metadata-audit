@@ -1,0 +1,37 @@
+gsm,title,group,disease_state,collection,postmortem_delay
+GSM674408,POAG 1,POAG,Primary Open-Angle Glaucoma,surgery,0
+GSM674409,POAG 2,POAG,Primary Open-Angle Glaucoma,surgery,0
+GSM674410,POAG 3,POAG,Primary Open-Angle Glaucoma,surgery,0
+GSM674411,POAG 4,POAG,Primary Open-Angle Glaucoma,surgery,0
+GSM674412,Control 1,Control,Control,Donated eye,5:24
+GSM674413,Control 2,Control,Control,Donated eye,5:42
+GSM674414,Control 3,Control,Control,Donated eye,5:24
+GSM674415,Control 4,Control,Control,Donated eye,4:18
+GSM674416,Control 5,Control,Control,Donated eye,5:04
+GSM674417,Control 6,Control,Control,Donated eye,4:50
+GSM674418,Control 7,Control,Control,Donated eye,6:24
+GSM674419,Control 8,Control,Control,Donated eye,5:42
+GSM674420,Control 9,Control,Control,Donated eye,4:07
+GSM674421,Control 10,Control,Control,Donated eye,5:38
+GSM674422,Control 11,Control,Control,Donated eye,3:24
+GSM674423,Control 12,Control,Control,Donated eye,3:43
+GSM674424,Control 13,Control,Control,Donated eye,4:53
+GSM674425,Control 14,Control,Control,Donated eye,3:17
+GSM674426,Control 15,Control,Control,Donated eye,4:18
+GSM674427,Control 16,Control,Control,Donated eye,5:04
+GSM674428,Control 17,Control,Control,Donated eye,4:50
+GSM674429,Control 18,Control,Control,Donated eye,6:24
+GSM674430,Control 19,Control,Control,Donated eye,2:25
+GSM674431,POAG 5,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674432,POAG 6,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674433,POAG 7,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674434,POAG 8,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674435,POAG 9,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674436,POAG 10,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674437,POAG 11,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674438,POAG 12,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674439,POAG 13,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674440,POAG 14,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674441,POAG 15,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674442,POAG 16,POAG,Primary Open-Angle Glaucoma,surgery,0:00
+GSM674443,POAG 17,POAG,Primary Open-Angle Glaucoma,surgery,0:00

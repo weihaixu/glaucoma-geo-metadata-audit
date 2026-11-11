@@ -1,0 +1,36 @@
+{
+  "source": "NCBI GEO GSE9944 brief GSM view (officially retrieved, response truncated at 30 titles)",
+  "coverage": "PARTIAL: 30 of 63 titles",
+  "n_titles_verified": 30,
+  "n_unique_donors_verified": 15,
+  "rep_distribution_per_donor": {
+    "2": 15
+  },
+  "donors_with_exactly_rep1_and_rep2": 15,
+  "arrays_per_donor_observed": 2.0,
+  "verified_conclusion": "All 30 verified titles form 15 exact rep1/rep2 pairs from 15 donors. Treating these as 30 independent samples doubles the apparent sample size.",
+  "extrapolation_label": "NOT VERIFIED - arithmetic bound only, do not cite as measured",
+  "series_total_arrays_official": 63,
+  "upper_bound_independent_donors_if_all_paired": 32,
+  "pseudo_degrees_of_freedom_if_63_modelled_as_independent": 31,
+  "manuscript_claim": "63 ONH samples (43 normal + 20 glaucoma)",
+  "consequence": "A case-control contrast fitted on 63 arrays instead of <=32 donors has inflated residual degrees of freedom, understated standard errors and anti-conservative p values. Combined with no FDR correction, this alone can manufacture most of the reported DEG list.",
+  "what_would_settle_it": "Full 63-title list + GSE9944 series matrix; reanalysis.py computes the exact number in 01_sample_metadata.csv.",
+  "donors": [
+    "03-11R",
+    "03-13L",
+    "03-19L",
+    "03-1L",
+    "03-6R",
+    "04-15L",
+    "04-19L",
+    "04-21R",
+    "04-2R",
+    "04-4L",
+    "04-6L",
+    "05-11R",
+    "05-4L",
+    "05-5L",
+    "05-7L"
+  ]
+}

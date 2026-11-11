@@ -1,0 +1,7 @@
+{
+  "source": "GPL5175_family.soft.gz platform table prefix",
+  "column": "gene_assignment",
+  "complete_table": true,
+  "mapped_probes": 33475,
+  "six_gene_hits": 8
+}

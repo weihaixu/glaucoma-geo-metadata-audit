@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "upload_type": "software",
+    "publication_date": "2026-11-09",
+    "title": "Reproducibility package for a reusable metadata-audit and donor-level re-analysis framework for public gene-expression series (v1.1)",
+    "version": "v1.1",
+    "creators": [
+      {
+        "name": "Xu, Weihai",
+        "affiliation": "Department of Ophthalmology, Binhai County People's Hospital, Kangda College of Nanjing Medical University, Yancheng, Jiangsu Province 224500, China",
+        "orcid": "0000-0002-6566-2828"
+      },
+      {
+        "name": "Li, Qiliang",
+        "affiliation": "Department of Ophthalmology, Binhai County People's Hospital, Kangda College of Nanjing Medical University, Yancheng, Jiangsu Province 224500, China"
+      },
+      {
+        "name": "Ma, Qiang",
+        "affiliation": "Department of Ophthalmology, Binhai County People's Hospital, Kangda College of Nanjing Medical University, Yancheng, Jiangsu Province 224500, China"
+      },
+      {
+        "name": "Guo, Yanchun",
+        "affiliation": "Department of Ophthalmology, Binhai County People's Hospital, Kangda College of Nanjing Medical University, Yancheng, Jiangsu Province 224500, China"
+      }
+    ],
+    "description": "Code, derived result tables, figures, supplementary tables and run documentation for a methodological / data-quality audit of six NCBI GEO series matrices (GSE9944 on GPL91/GPL571/GPL8300, GSE2378 on GPL91/GPL8300, GSE45570 on GPL5175), reframed in v1.0 as a reusable five-class metadata-audit checklist with the glaucoma optic nerve head series as a worked example. The primary results are the pre-specified donor-level OLS M2 in results/; results_m2b/, results_diagnostics/, results_limma/, results_genelevel/, results_power/, results_gpl5175/, results_audit/ and results_external/ contain sensitivity, boundary, audit and descriptive analyses ONLY. Raw GEO series matrices and platform annotations are NOT redistributed; they are re-downloaded with the supplied fetch scripts and their SHA-256 checksums are recorded in tables/file_manifest.csv. GEO has no official GPL5175 annotation file: a local probe-to-gene map was rebuilt from the complete 316,919-row SOFT platform table and used ONLY for an exploratory GSE45570 boundary check (Table S15), never as validation. Table S13 reports post-hoc detectable effect sizes, Table S16 the observed five-class metadata audit of six primary matrices plus one external candidate, Table S14 the official GEO verification of external cohort candidates, Tables S17-S18 an exploratory cross-tissue directional concordance contrast in GSE27276 under three unit conventions, and Table S19 the reusable checklist template, decision rules, minimum reporting schema and interpretation boundaries. Disease in GSE27276 is completely confounded with tissue procurement and postmortem delay, donor identity is only partly recoverable, and that comparison is NOT an independent replication or validation cohort. No independent replication or wet-laboratory validation is claimed anywhere; the six prioritised transcripts remain 0/18 non-significant in the primary model and serve only as a bounded worked example, not a biological claim. Manuscript v1.1 is journal-neutral. Cold-read v1.1: 403/403 assertions pass; results/ and manuscripts v0.7-v0.9 are unchanged.",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "access_right": "open",
+    "keywords": [
+      "glaucoma",
+      "optic nerve head",
+      "astrocyte",
+      "microarray",
+      "GEO",
+      "reproducibility",
+      "donor-level analysis",
+      "negative results",
+      "limma",
+      "metadata audit",
+      "detectable effect size",
+      "cross-tissue concordance",
+      "donor reconstruction",
+      "confounding audit",
+      "metadata audit checklist",
+      "reporting standards",
+      "worked example"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9944",
+        "relation": "isDerivedFrom",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2378",
+        "relation": "isDerivedFrom",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45570",
+        "relation": "isDerivedFrom",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE27276",
+        "relation": "isDerivedFrom",
+        "scheme": "url"
+      }
+    ]
+  }
+}

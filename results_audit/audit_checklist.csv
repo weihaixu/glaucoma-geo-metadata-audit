@@ -1,0 +1,8 @@
+dataset,role,series,platform,n_arrays,n_donors,n_probes,compound_free_text_cells,structured_age_cells,structured_sex_cells,zero_cells,phi,design_full_rank,cross_platform_shared_donors,annotation_status,annotation_source,annotation_coverage_pct,scale_inference,excluded_arrays,check_free_text_covariates,check_group_x_ancestry_cells,check_replicate_donor_overlap,check_annotation_availability,check_scale_excluded_groups
+GSE9944-GPL571,primary,GSE9944,GPL571,42,21,22277,42,0,0,1,-0.3536,True,5,available,GEO official annot.gz,94.96,log2-like,0,FAIL,FAIL,WARN,PASS,PASS
+GSE9944-GPL8300,primary,GSE9944,GPL8300,19,16,12600,19,0,0,1,-0.4615,True,5,available,GEO official annot.gz,96.48,log2-like,0,FAIL,FAIL,WARN,PASS,PASS
+GSE9944-GPL91,primary,GSE9944,GPL91,2,2,12600,2,0,0,0,,False,0,available,GEO official annot.gz,96.48,log2-like,0,FAIL,WARN,PASS,PASS,PASS
+GSE2378-GPL8300,primary,GSE2378,GPL8300,13,13,12625,0,0,0,,,,0,available,GEO official annot.gz,96.48,linear-like,0,WARN,NOT_APPLICABLE,PASS,PASS,WARN
+GSE2378-GPL91,primary,GSE2378,GPL91,2,2,12626,0,0,0,,,,0,available,GEO official annot.gz,96.48,linear-like,0,WARN,NOT_APPLICABLE,PASS,PASS,WARN
+GSE45570,primary,GSE45570,GPL5175,18,18,22011,0,18,0,,,,0,available,rebuilt from the complete SOFT platform table; GEO has no official annot.gz,80.11,log2-like,6,WARN,NOT_APPLICABLE,PASS,PASS,WARN
+GSE27276,external-candidate (metadata only),GSE27276,GPL2507,36,36,47293,0,0,0,,,,0,available,GEO official annot.gz,40.64,log2-like,0,WARN,NOT_APPLICABLE,PASS,PASS,PASS

@@ -1,0 +1,20 @@
+R / package versions used for the limma replication
+====================================================
+R version 4.2.0 (2022-04-22 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 26300)
+
+Matrix products: default
+
+locale:
+[1] C
+system code page: 65001
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] limma_3.52.4
+
+loaded via a namespace (and not attached):
+[1] compiler_4.2.0

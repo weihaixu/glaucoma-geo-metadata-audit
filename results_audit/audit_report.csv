@@ -1,0 +1,160 @@
+dataset,category,metric,value,status,evidence
+GSE9944-GPL571,free_text_covariates,n_characteristics_rows,1,INFO,
+GSE9944-GPL571,free_text_covariates,compound_free_text_cells,42,INFO,
+GSE9944-GPL571,free_text_covariates,structured_age_cells,0,INFO,
+GSE9944-GPL571,free_text_covariates,structured_sex_cells,0,INFO,
+GSE9944-GPL571,free_text_covariates,adjustable_terms_at_80pct,none,INFO,
+GSE9944-GPL571,free_text_covariates,class_status,FAIL,FAIL,age/sex buried in free text -> structured parser returns few usable values
+GSE9944-GPL571,group_x_ancestry_cells,zero_cells,1,INFO,
+GSE9944-GPL571,group_x_ancestry_cells,phi,-0.3536,INFO,
+GSE9944-GPL571,group_x_ancestry_cells,design_full_rank,True,INFO,
+GSE9944-GPL571,group_x_ancestry_cells,condition_number,3.758,INFO,
+GSE9944-GPL571,group_x_ancestry_cells,class_status,FAIL,FAIL,empty stratum forces extrapolation of adjusted disease coefficient
+GSE9944-GPL571,replicate_donor_overlap,n_donors,21,INFO,
+GSE9944-GPL571,replicate_donor_overlap,arrays_per_donor,2.0,INFO,
+GSE9944-GPL571,replicate_donor_overlap,cross_platform_shared_donors,5,INFO,
+GSE9944-GPL571,replicate_donor_overlap,class_status,WARN,WARN,same RNA re-hybridised / same donor across platforms is pseudo-replication
+GSE9944-GPL571,annotation_availability,status,available,INFO,
+GSE9944-GPL571,annotation_availability,mapped_ids,21154,INFO,
+GSE9944-GPL571,annotation_availability,matrix_ids_covered,21154,INFO,
+GSE9944-GPL571,annotation_availability,coverage_pct,94.96,INFO,
+GSE9944-GPL571,annotation_availability,class_status,PASS,PASS,"missing annotation is a missing-data limitation, NEVER a negative result"
+GSE9944-GPL571,scale_excluded_groups,value_median,9.952,INFO,
+GSE9944-GPL571,scale_excluded_groups,value_max,13.716,INFO,
+GSE9944-GPL571,scale_excluded_groups,scale_inference,log2-like,INFO,
+GSE9944-GPL571,scale_excluded_groups,excluded_arrays,0,INFO,
+GSE9944-GPL571,scale_excluded_groups,class_status,PASS,PASS,OHT arm excluded by design; linear MAS5 values require log2 transform
+GSE9944-GPL8300,free_text_covariates,n_characteristics_rows,1,INFO,
+GSE9944-GPL8300,free_text_covariates,compound_free_text_cells,19,INFO,
+GSE9944-GPL8300,free_text_covariates,structured_age_cells,0,INFO,
+GSE9944-GPL8300,free_text_covariates,structured_sex_cells,0,INFO,
+GSE9944-GPL8300,free_text_covariates,adjustable_terms_at_80pct,none,INFO,
+GSE9944-GPL8300,free_text_covariates,class_status,FAIL,FAIL,age/sex buried in free text -> structured parser returns few usable values
+GSE9944-GPL8300,group_x_ancestry_cells,zero_cells,1,INFO,
+GSE9944-GPL8300,group_x_ancestry_cells,phi,-0.4615,INFO,
+GSE9944-GPL8300,group_x_ancestry_cells,design_full_rank,True,INFO,
+GSE9944-GPL8300,group_x_ancestry_cells,condition_number,5.847,INFO,
+GSE9944-GPL8300,group_x_ancestry_cells,class_status,FAIL,FAIL,empty stratum forces extrapolation of adjusted disease coefficient
+GSE9944-GPL8300,replicate_donor_overlap,n_donors,16,INFO,
+GSE9944-GPL8300,replicate_donor_overlap,arrays_per_donor,1.188,INFO,
+GSE9944-GPL8300,replicate_donor_overlap,cross_platform_shared_donors,5,INFO,
+GSE9944-GPL8300,replicate_donor_overlap,class_status,WARN,WARN,same RNA re-hybridised / same donor across platforms is pseudo-replication
+GSE9944-GPL8300,annotation_availability,status,available,INFO,
+GSE9944-GPL8300,annotation_availability,mapped_ids,12181,INFO,
+GSE9944-GPL8300,annotation_availability,matrix_ids_covered,12156,INFO,
+GSE9944-GPL8300,annotation_availability,coverage_pct,96.48,INFO,
+GSE9944-GPL8300,annotation_availability,class_status,PASS,PASS,"missing annotation is a missing-data limitation, NEVER a negative result"
+GSE9944-GPL8300,scale_excluded_groups,value_median,9.242,INFO,
+GSE9944-GPL8300,scale_excluded_groups,value_max,14.447,INFO,
+GSE9944-GPL8300,scale_excluded_groups,scale_inference,log2-like,INFO,
+GSE9944-GPL8300,scale_excluded_groups,excluded_arrays,0,INFO,
+GSE9944-GPL8300,scale_excluded_groups,class_status,PASS,PASS,OHT arm excluded by design; linear MAS5 values require log2 transform
+GSE9944-GPL91,free_text_covariates,n_characteristics_rows,1,INFO,
+GSE9944-GPL91,free_text_covariates,compound_free_text_cells,2,INFO,
+GSE9944-GPL91,free_text_covariates,structured_age_cells,0,INFO,
+GSE9944-GPL91,free_text_covariates,structured_sex_cells,0,INFO,
+GSE9944-GPL91,free_text_covariates,adjustable_terms_at_80pct,none,INFO,
+GSE9944-GPL91,free_text_covariates,class_status,FAIL,FAIL,age/sex buried in free text -> structured parser returns few usable values
+GSE9944-GPL91,group_x_ancestry_cells,zero_cells,0,INFO,
+GSE9944-GPL91,group_x_ancestry_cells,phi,,INFO,
+GSE9944-GPL91,group_x_ancestry_cells,design_full_rank,False,INFO,
+GSE9944-GPL91,group_x_ancestry_cells,condition_number,,INFO,
+GSE9944-GPL91,group_x_ancestry_cells,class_status,WARN,WARN,empty stratum forces extrapolation of adjusted disease coefficient
+GSE9944-GPL91,replicate_donor_overlap,n_donors,2,INFO,
+GSE9944-GPL91,replicate_donor_overlap,arrays_per_donor,1.0,INFO,
+GSE9944-GPL91,replicate_donor_overlap,cross_platform_shared_donors,0,INFO,
+GSE9944-GPL91,replicate_donor_overlap,class_status,PASS,PASS,same RNA re-hybridised / same donor across platforms is pseudo-replication
+GSE9944-GPL91,annotation_availability,status,available,INFO,
+GSE9944-GPL91,annotation_availability,mapped_ids,12182,INFO,
+GSE9944-GPL91,annotation_availability,matrix_ids_covered,12156,INFO,
+GSE9944-GPL91,annotation_availability,coverage_pct,96.48,INFO,
+GSE9944-GPL91,annotation_availability,class_status,PASS,PASS,"missing annotation is a missing-data limitation, NEVER a negative result"
+GSE9944-GPL91,scale_excluded_groups,value_median,9.281,INFO,
+GSE9944-GPL91,scale_excluded_groups,value_max,14.225,INFO,
+GSE9944-GPL91,scale_excluded_groups,scale_inference,log2-like,INFO,
+GSE9944-GPL91,scale_excluded_groups,excluded_arrays,0,INFO,
+GSE9944-GPL91,scale_excluded_groups,class_status,PASS,PASS,OHT arm excluded by design; linear MAS5 values require log2 transform
+GSE2378-GPL8300,free_text_covariates,n_characteristics_rows,0,INFO,
+GSE2378-GPL8300,free_text_covariates,compound_free_text_cells,0,INFO,
+GSE2378-GPL8300,free_text_covariates,structured_age_cells,0,INFO,
+GSE2378-GPL8300,free_text_covariates,structured_sex_cells,0,INFO,
+GSE2378-GPL8300,free_text_covariates,adjustable_terms_at_80pct,none,INFO,
+GSE2378-GPL8300,free_text_covariates,class_status,WARN,WARN,age/sex buried in free text -> structured parser returns few usable values
+GSE2378-GPL8300,group_x_ancestry_cells,ancestry_field,absent,INFO,
+GSE2378-GPL8300,replicate_donor_overlap,n_donors,13,INFO,
+GSE2378-GPL8300,replicate_donor_overlap,arrays_per_donor,1.0,INFO,
+GSE2378-GPL8300,replicate_donor_overlap,cross_platform_shared_donors,0,INFO,
+GSE2378-GPL8300,replicate_donor_overlap,class_status,PASS,PASS,same RNA re-hybridised / same donor across platforms is pseudo-replication
+GSE2378-GPL8300,annotation_availability,status,available,INFO,
+GSE2378-GPL8300,annotation_availability,mapped_ids,12181,INFO,
+GSE2378-GPL8300,annotation_availability,matrix_ids_covered,12181,INFO,
+GSE2378-GPL8300,annotation_availability,coverage_pct,96.48,INFO,
+GSE2378-GPL8300,annotation_availability,class_status,PASS,PASS,"missing annotation is a missing-data limitation, NEVER a negative result"
+GSE2378-GPL8300,scale_excluded_groups,value_median,126.502,INFO,
+GSE2378-GPL8300,scale_excluded_groups,value_max,40353.454,INFO,
+GSE2378-GPL8300,scale_excluded_groups,scale_inference,linear-like,INFO,
+GSE2378-GPL8300,scale_excluded_groups,excluded_arrays,0,INFO,
+GSE2378-GPL8300,scale_excluded_groups,class_status,WARN,WARN,OHT arm excluded by design; linear MAS5 values require log2 transform
+GSE2378-GPL91,free_text_covariates,n_characteristics_rows,0,INFO,
+GSE2378-GPL91,free_text_covariates,compound_free_text_cells,0,INFO,
+GSE2378-GPL91,free_text_covariates,structured_age_cells,0,INFO,
+GSE2378-GPL91,free_text_covariates,structured_sex_cells,0,INFO,
+GSE2378-GPL91,free_text_covariates,adjustable_terms_at_80pct,none,INFO,
+GSE2378-GPL91,free_text_covariates,class_status,WARN,WARN,age/sex buried in free text -> structured parser returns few usable values
+GSE2378-GPL91,group_x_ancestry_cells,ancestry_field,absent,INFO,
+GSE2378-GPL91,replicate_donor_overlap,n_donors,2,INFO,
+GSE2378-GPL91,replicate_donor_overlap,arrays_per_donor,1.0,INFO,
+GSE2378-GPL91,replicate_donor_overlap,cross_platform_shared_donors,0,INFO,
+GSE2378-GPL91,replicate_donor_overlap,class_status,PASS,PASS,same RNA re-hybridised / same donor across platforms is pseudo-replication
+GSE2378-GPL91,annotation_availability,status,available,INFO,
+GSE2378-GPL91,annotation_availability,mapped_ids,12182,INFO,
+GSE2378-GPL91,annotation_availability,matrix_ids_covered,12182,INFO,
+GSE2378-GPL91,annotation_availability,coverage_pct,96.48,INFO,
+GSE2378-GPL91,annotation_availability,class_status,PASS,PASS,"missing annotation is a missing-data limitation, NEVER a negative result"
+GSE2378-GPL91,scale_excluded_groups,value_median,143.132,INFO,
+GSE2378-GPL91,scale_excluded_groups,value_max,9997.495,INFO,
+GSE2378-GPL91,scale_excluded_groups,scale_inference,linear-like,INFO,
+GSE2378-GPL91,scale_excluded_groups,excluded_arrays,0,INFO,
+GSE2378-GPL91,scale_excluded_groups,class_status,WARN,WARN,OHT arm excluded by design; linear MAS5 values require log2 transform
+GSE45570,free_text_covariates,n_characteristics_rows,2,INFO,
+GSE45570,free_text_covariates,compound_free_text_cells,0,INFO,
+GSE45570,free_text_covariates,structured_age_cells,18,INFO,
+GSE45570,free_text_covariates,structured_sex_cells,0,INFO,
+GSE45570,free_text_covariates,adjustable_terms_at_80pct,"group,age",INFO,
+GSE45570,free_text_covariates,class_status,WARN,WARN,age/sex buried in free text -> structured parser returns few usable values
+GSE45570,group_x_ancestry_cells,ancestry_field,absent,INFO,
+GSE45570,replicate_donor_overlap,n_donors,18,INFO,
+GSE45570,replicate_donor_overlap,arrays_per_donor,1.0,INFO,
+GSE45570,replicate_donor_overlap,cross_platform_shared_donors,0,INFO,
+GSE45570,replicate_donor_overlap,class_status,PASS,PASS,same RNA re-hybridised / same donor across platforms is pseudo-replication
+GSE45570,annotation_availability,status,available,INFO,
+GSE45570,annotation_availability,mapped_ids,33475,INFO,
+GSE45570,annotation_availability,matrix_ids_covered,17634,INFO,
+GSE45570,annotation_availability,coverage_pct,80.11,INFO,
+GSE45570,annotation_availability,class_status,PASS,PASS,"missing annotation is a missing-data limitation, NEVER a negative result"
+GSE45570,scale_excluded_groups,value_median,6.606,INFO,
+GSE45570,scale_excluded_groups,value_max,12.486,INFO,
+GSE45570,scale_excluded_groups,scale_inference,log2-like,INFO,
+GSE45570,scale_excluded_groups,excluded_arrays,6,INFO,
+GSE45570,scale_excluded_groups,class_status,WARN,WARN,OHT arm excluded by design; linear MAS5 values require log2 transform
+GSE27276,free_text_covariates,n_characteristics_rows,4,INFO,
+GSE27276,free_text_covariates,compound_free_text_cells,0,INFO,
+GSE27276,free_text_covariates,structured_age_cells,0,INFO,
+GSE27276,free_text_covariates,structured_sex_cells,0,INFO,
+GSE27276,free_text_covariates,adjustable_terms_at_80pct,"disease state,collection,tissue",INFO,
+GSE27276,free_text_covariates,class_status,WARN,WARN,age/sex buried in free text -> structured parser returns few usable values
+GSE27276,group_x_ancestry_cells,ancestry_field,absent,INFO,
+GSE27276,replicate_donor_overlap,n_donors,36,INFO,
+GSE27276,replicate_donor_overlap,arrays_per_donor,1.0,INFO,
+GSE27276,replicate_donor_overlap,cross_platform_shared_donors,0,INFO,
+GSE27276,replicate_donor_overlap,class_status,PASS,PASS,same RNA re-hybridised / same donor across platforms is pseudo-replication
+GSE27276,annotation_availability,status,available,INFO,
+GSE27276,annotation_availability,mapped_ids,19219,INFO,
+GSE27276,annotation_availability,matrix_ids_covered,19219,INFO,
+GSE27276,annotation_availability,coverage_pct,40.64,INFO,
+GSE27276,annotation_availability,class_status,PASS,PASS,"missing annotation is a missing-data limitation, NEVER a negative result"
+GSE27276,scale_excluded_groups,value_median,6.839,INFO,
+GSE27276,scale_excluded_groups,value_max,15.272,INFO,
+GSE27276,scale_excluded_groups,scale_inference,log2-like,INFO,
+GSE27276,scale_excluded_groups,excluded_arrays,0,INFO,
+GSE27276,scale_excluded_groups,class_status,PASS,PASS,OHT arm excluded by design; linear MAS5 values require log2 transform

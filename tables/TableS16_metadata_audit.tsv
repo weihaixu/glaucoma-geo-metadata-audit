@@ -1,0 +1,8 @@
+dataset	role	n_arrays	n_donors	check_free_text_covariates	check_group_x_ancestry_cells	check_replicate_donor_overlap	check_annotation_availability	check_scale_excluded_groups	zero_cells	annotation_status	annotation_coverage_pct	scale_inference	excluded_arrays	shared_donors
+GSE9944-GPL571	primary	42	21	FAIL	FAIL	WARN	PASS	PASS	1	available	94.96	log2-like	0	5
+GSE9944-GPL8300	primary	19	16	FAIL	FAIL	WARN	PASS	PASS	1	available	96.48	log2-like	0	5
+GSE9944-GPL91	primary	2	2	FAIL	WARN	PASS	PASS	PASS	0	available	96.48	log2-like	0	0
+GSE2378-GPL8300	primary	13	13	WARN	NOT_APPLICABLE	PASS	PASS	WARN		available	96.48	linear-like	0	0
+GSE2378-GPL91	primary	2	2	WARN	NOT_APPLICABLE	PASS	PASS	WARN		available	96.48	linear-like	0	0
+GSE45570	primary	18	18	WARN	NOT_APPLICABLE	PASS	PASS	WARN		available	80.11	log2-like	6	0
+GSE27276	external-candidate (metadata only)	36	36	WARN	NOT_APPLICABLE	PASS	PASS	PASS		available	40.64	log2-like	0	0

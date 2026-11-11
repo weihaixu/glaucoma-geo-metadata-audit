@@ -1,0 +1,159 @@
+{
+  "series": "GSE27276",
+  "platform": "GPL2507",
+  "tissue": "human trabecular meshwork",
+  "role": "cross-tissue directional concordance / metadata-audit stress test",
+  "NOT": "independent replication, validation, or confirmatory evidence",
+  "declared_design": "This study compared the genome-wide expression in human trabecular meshwork tissue between 13 controls and 15 POAG cases. Six controls and one POAG cases had the expression performed from both left and right eyes. One technical replicate was done between two cases. The average from the biological replicates for each inidividual was used for analysis.",
+  "series_summary": "This study compared genome-wide expression profiles of individuals with and without Primary Open-Angle Glaucoma (POAG). One POAG case (case #6 with two replicates #10 and #11) carried a Q368X myocilin mutation. ",
+  "n_arrays": 36,
+  "n_units_by_convention": {
+    "array_level": 36,
+    "donor_metadata": 30,
+    "donor_declared": 28
+  },
+  "scale": {
+    "min": 5.838461999,
+    "median": 6.729963515,
+    "max": 15.27157858,
+    "log2_transformed": false,
+    "decision": "log2-like; no transform (ensure_log2 mode='log2')"
+  },
+  "annotation": {
+    "n_matrix_probes": 47293,
+    "n_mapped": 19219,
+    "coverage_pct": 40.64,
+    "n_six_gene_probes": 12
+  },
+  "confounding": {
+    "disease_vs_collection": "complete separation (POAG=surgery, control=Donated eye)",
+    "disease_vs_postmortem_delay": "complete separation (POAG=0, control>0)",
+    "design_rank_with_confounders": 2,
+    "phi_disease_collection": 1.0,
+    "phi_disease_delay": 1.0,
+    "covariates": "no ancestry/age/sex; M2 reduces to [1, glaucoma]"
+  },
+  "control_donors_from_metadata": 13,
+  "poag_correlation_merges": [
+    {
+      "arrays": [
+        "POAG 6",
+        "POAG 11"
+      ],
+      "pearson_r": 0.980778,
+      "support": "highest POAG pair; consistent with GEO 'case #6 with two replicates'"
+    },
+    {
+      "arrays": [
+        "POAG 16",
+        "POAG 17"
+      ],
+      "pearson_r": 0.965582,
+      "support": "second disjoint pair; UNVERIFIABLE assumption"
+    }
+  ],
+  "conventions": {
+    "array_level": {
+      "n_units": 36,
+      "n_poag": 17,
+      "n_control": 19,
+      "residual_df": 34,
+      "n_probes_tested": 47293,
+      "n_probes_q05": 1115,
+      "n_six_genes_significant_q05": 0,
+      "description": "All 36 deposited arrays treated as independent (the naive reuse)."
+    },
+    "donor_metadata": {
+      "n_units": 30,
+      "n_poag": 17,
+      "n_control": 13,
+      "residual_df": 28,
+      "n_probes_tested": 47293,
+      "n_probes_q05": 1108,
+      "n_six_genes_significant_q05": 0,
+      "description": "Controls collapsed by postmortem delay (13 donors); POAG arrays left separate because deposited metadata cannot pair them. Known residual pseudo-replication on the case side."
+    },
+    "donor_declared": {
+      "n_units": 28,
+      "n_poag": 15,
+      "n_control": 13,
+      "residual_df": 26,
+      "n_probes_tested": 47293,
+      "n_probes_q05": 704,
+      "n_six_genes_significant_q05": 0,
+      "description": "As donor_metadata plus two disjoint highest-correlation POAG pairs merged by averaging, reproducing the declared 15 cases / 13 controls. The second merge is an unverifiable, data-driven assumption."
+    }
+  },
+  "sign_agreement": [
+    {
+      "convention": "array_level",
+      "primary_platform": "GSE2378-GPL8300",
+      "n_compared": 6,
+      "n_sign_agreement": 2,
+      "pct": 33.3
+    },
+    {
+      "convention": "array_level",
+      "primary_platform": "GSE9944-GPL571",
+      "n_compared": 6,
+      "n_sign_agreement": 3,
+      "pct": 50.0
+    },
+    {
+      "convention": "array_level",
+      "primary_platform": "GSE9944-GPL8300",
+      "n_compared": 6,
+      "n_sign_agreement": 2,
+      "pct": 33.3
+    },
+    {
+      "convention": "donor_declared",
+      "primary_platform": "GSE2378-GPL8300",
+      "n_compared": 6,
+      "n_sign_agreement": 3,
+      "pct": 50.0
+    },
+    {
+      "convention": "donor_declared",
+      "primary_platform": "GSE9944-GPL571",
+      "n_compared": 6,
+      "n_sign_agreement": 2,
+      "pct": 33.3
+    },
+    {
+      "convention": "donor_declared",
+      "primary_platform": "GSE9944-GPL8300",
+      "n_compared": 6,
+      "n_sign_agreement": 3,
+      "pct": 50.0
+    },
+    {
+      "convention": "donor_metadata",
+      "primary_platform": "GSE2378-GPL8300",
+      "n_compared": 6,
+      "n_sign_agreement": 3,
+      "pct": 50.0
+    },
+    {
+      "convention": "donor_metadata",
+      "primary_platform": "GSE9944-GPL571",
+      "n_compared": 6,
+      "n_sign_agreement": 2,
+      "pct": 33.3
+    },
+    {
+      "convention": "donor_metadata",
+      "primary_platform": "GSE9944-GPL8300",
+      "n_compared": 6,
+      "n_sign_agreement": 3,
+      "pct": 50.0
+    }
+  ],
+  "primary_results_modified": false,
+  "primary_file_sha256": "48876f29f3d0d561b347b55ff83ad5627934fe9d70c61c0a23c9035e14398c3c",
+  "input_sha256": {
+    "GSE27276_series_matrix.txt.gz": "0822e477985aebb78468d63bb55b3f5824a9f89216ea09e55009f3df7521697b",
+    "GPL2507.annot.gz": "98541033a4ef488ef884e872778089c6502505a24b3b8583ceacd0ad9e78c85e"
+  },
+  "interpretation": "Directional concordance is descriptive only (n=6 transcripts; no inference, no p-value). Disease is perfectly confounded with tissue procurement and postmortem delay, so any case-control contrast in this series is not interpretable as a disease effect. The six-gene result must not be used to support or refute the primary 0/18 finding."
+}
